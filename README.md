@@ -4,15 +4,18 @@
 
 ### Host Out Of Order No Prefetch 1 Core ADD
 
+![Screenshot from 2024-03-15 10-58-23](https://github.com/vishnupriyapesu/inmemoerycomputing/assets/142419649/4c568700-75f9-4851-83f3-f1612b2b99fe)
 
-![Screenshot from 2024-03-15 00-45-32](https://github.com/vishnupriyapesu/inmemoerycomputing/assets/142419649/6eaabacb-65d2-4b9c-b022-eca7ef7c0da7)
+
 
 
 ### Host Out Of Order No Prefetch 4 Core ADD
 
-![Screenshot from 2024-03-15 01-39-48](https://github.com/vishnupriyapesu/inmemoerycomputing/assets/142419649/e5ddc0f5-5a75-4855-aa39-3c2315bef576)
+![Screenshot from 2024-03-15 10-58-04](https://github.com/vishnupriyapesu/inmemoerycomputing/assets/142419649/d5a78933-88d6-405d-9b02-e882ac17fb8b)
+
 
 
 ### Host Out Of Order No Prefetch 16 Core ADD
 
-![Screenshot from 2024-03-15 02-37-19](https://github.com/vishnupriyapesu/inmemoerycomputing/assets/142419649/6a8cfdb4-85e7-4ea0-b3b2-c85f118af3bd)
+![Screenshot from 2024-03-15 10-56-39](https://github.com/vishnupriyapesu/inmemoerycomputing/assets/142419649/68dd76f3-337f-4680-9771-5b4d341387ea)
+
