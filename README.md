@@ -53,3 +53,16 @@
 
 ![Screenshot from 2024-03-16 17-26-59](https://github.com/vishnupriyapesu/inmemoerycomputing/assets/142419649/3941d4ab-e9c8-46a7-ac63-045e1a93e044)
 
+## commenting all operations other than copy in stream.c file (the file without vector mul)
+
+
+### Host Out Of Order Prefetch 1 Core copy
+
+![Screenshot from 2024-03-16 19-42-24](https://github.com/vishnupriyapesu/inmemoerycomputing/assets/142419649/c9065102-355c-443d-8635-0d019bb96327)
+
+
+### Host Out Of Order Prefetch 4 Core copy
+
+### Host Out Of Order Prefetch 16 Core copy
+
+### Host Out Of Order Prefetch 64 Core copy
