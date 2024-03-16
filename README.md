@@ -67,4 +67,8 @@
 
 ### Host Out Of Order Prefetch 16 Core copy
 
+![Screenshot from 2024-03-16 20-39-46](https://github.com/vishnupriyapesu/inmemoerycomputing/assets/142419649/1fae1b92-a5fd-4e90-8a84-3a92f7d069f6)
+
+
+
 ### Host Out Of Order Prefetch 64 Core copy
