@@ -4,18 +4,24 @@
 
 ### Host Out Of Order No Prefetch 1 Core ADD
 
-![Screenshot from 2024-03-15 10-58-23](https://github.com/vishnupriyapesu/inmemoerycomputing/assets/142419649/4c568700-75f9-4851-83f3-f1612b2b99fe)
+![Screenshot from 2024-03-17 00-24-21](https://github.com/vishnupriyapesu/inmemoerycomputing/assets/142419649/a5d6ded3-3c60-461f-933d-3e08b298ea99)
 
 
 ### Host Out Of Order No Prefetch 4 Core ADD
 
-![Screenshot from 2024-03-15 10-58-04](https://github.com/vishnupriyapesu/inmemoerycomputing/assets/142419649/d5a78933-88d6-405d-9b02-e882ac17fb8b)
+![Screenshot from 2024-03-17 02-44-17](https://github.com/vishnupriyapesu/inmemoerycomputing/assets/142419649/75f846ff-bf53-4d2f-aad6-8d82429bd420)
 
 
 
 ### Host Out Of Order No Prefetch 16 Core ADD
 
-![Screenshot from 2024-03-15 10-56-39](https://github.com/vishnupriyapesu/inmemoerycomputing/assets/142419649/68dd76f3-337f-4680-9771-5b4d341387ea)
+![Screenshot from 2024-03-17 07-05-50](https://github.com/vishnupriyapesu/inmemoerycomputing/assets/142419649/74f8071e-050c-4b04-9c90-07b3d42e0996)
+
+
+### Host Out Of Order No Prefetch 64 Core ADD
+
+![Screenshot from 2024-03-17 07-52-25](https://github.com/vishnupriyapesu/inmemoerycomputing/assets/142419649/a990e127-5fe5-484f-99f6-d7ec69a17da1)
+
 
 
 ## commenting all operations other than copy in stream.c file (the file without vector mul)
@@ -70,6 +76,4 @@
 ![Screenshot from 2024-03-16 20-39-46](https://github.com/vishnupriyapesu/inmemoerycomputing/assets/142419649/1fae1b92-a5fd-4e90-8a84-3a92f7d069f6)
 
 
-
-### Host Out Of Order Prefetch 64 Core copy
 
