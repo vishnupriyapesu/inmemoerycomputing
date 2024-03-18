@@ -86,7 +86,9 @@
 
 ### Host in order NO Prefetch 4 Core ADD
 
-![Uploading Screenshot from 2024-03-18 10-19-03.png…]()
+![Screenshot from 2024-03-18 10-19-03](https://github.com/vishnupriyapesu/inmemoerycomputing/assets/142419649/3216c285-5437-438e-8aa6-778324535715)
+
+
 
 ### Host in order NO Prefetch 16 Core ADD
 
