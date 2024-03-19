@@ -104,6 +104,11 @@
 ![Screenshot from 2024-03-19 07-02-20](https://github.com/vishnupriyapesu/inmemoerycomputing/assets/142419649/74d86c51-993c-42a8-bec5-e5f53bbde114)
 
 
-### pim out of order 1 Core ADD
+### pim out of order 4 Core ADD
 
 ![Screenshot from 2024-03-19 07-54-11](https://github.com/vishnupriyapesu/inmemoerycomputing/assets/142419649/29a5c161-d241-4597-add3-b6b3818d51b0)
+
+### pim out of order 16 Core ADD
+
+![Screenshot from 2024-03-19 10-06-10](https://github.com/vishnupriyapesu/inmemoerycomputing/assets/142419649/6c37c39f-b63e-4ebb-b14b-b89b7829a0fb)
+
